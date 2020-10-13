@@ -1,0 +1,20 @@
+Week, Visiting Team, Home Team, Score
+Week 5, Giants, COWBOYS, 37-34
+Week 1, Cowboys, RAMS, 20-17
+Week 2, Falcons, COWBOYS, 40-39
+Week 3, Cowboys, SEAHAWKS, 38-31
+Week 4, BROWNS, Cowboys, 49-38
+Week 1, Eagles, WASH, 27-17
+Week 2, RAMS, Eagles, 37-19
+Week 3, Bengals, Eagles, 23-23
+Week 4, EAGLES, 49ers, 25-20
+Week 5, Eagles, STEELERS, 38-29
+Week 1, STEELERS, Giants, 26-16
+Week 2, Giants, BEARS, 17-13
+Week 3, 49ERS, Giants, 36-9
+Week 4, Giants, RAMS, 17-9
+Week 1, Eagles, WASH, 27-17
+Week 2, Wash, CARDINALS, 30-15
+Week 3, Wash, BROWNS, 34-20
+Week 4, RAVENS, Wash, 31-17
+Week 5, RAMS, Wash, 30-10
